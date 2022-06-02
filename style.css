@@ -1,0 +1,129 @@
+body
+{
+    text-align: center;
+    background: linear-gradient( #ffffff 0%, #ff0000 100%);
+	background-repeat:no-repeat;
+}
+
+#art
+{
+  border-radius:50%;
+  width:700px;
+}
+
+
+h1{
+  text-shadow:2px 2px #ff44d0;
+  font-size:38px;
+
+}
+
+p{
+  font-size:25px;
+  color:#6A1B9A;
+  
+    
+}
+h2{
+  font-size:20px;
+  color:#1A237E;
+}
+
+
+#myname{
+   font-family: 'Courgette', cursive;
+  font-size:30px;
+}
+
+#welcome{
+     padding:70px;
+    text-align:center;
+}
+h2{
+  font-size:20px;
+  color:#003487;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
+#bio{
+    padding:20px;
+    font-size:42;
+    background:pink;
+}
+
+
+.menu{
+   list-style: none;
+    font-family:cursive;
+   float:right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color:black;
+}
+
+.menu{
+    color:black !important;
+}
+
+
+.link{
+    color:#800080;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+}
+
+
+   .link:hover
+{
+    background-color:beige;
+}
+#FA:hover
+{
+  background-color:beige;
+}
+#FA
+{
+      color:crimson;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+  font-family: 'Courgette', cursive;
+  font-size: 17px;
+}
+#in
+{
+  background-color:#ff1493;
+}
+.ip{
+  width:335px;
+  height:335px;
+}
+.ip:hover{
+  width:300px;
+  height:300px;
+}
+#FB
+{
+  background-color:lightpink;
+ 
+}
+#m {
+    background-color:lightpink;
+}
+h2{
+  font-size:27px;
+}
+.smoking{
+    font-size: larger;
+   
+}
